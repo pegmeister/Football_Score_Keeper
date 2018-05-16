@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Football Score Keeper</string>
+    <string name="team_A_name">Team A name</string>
+    <string name="team_B_name">Team B name</string>
+    <string name="zero">0</string>
+    <string name="TD">Touch Down</string>
+    <string name="FG">Field Goal</string>
+    <string name="Try">Try (Extra-point attempt)</string>
+    <string name="Safety">Safety</string>
+    <string name="Reset">Reset</string>
+</resources>
